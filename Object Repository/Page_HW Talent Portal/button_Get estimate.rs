@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get estimate</name>
+   <tag></tag>
+   <elementGuidId>96992cde-2cb4-49c1-aee5-d82924f8ddab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.styles_btn__vqDpu.css-ez23ye</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a9a96e67-ddcb-4e6b-a6e0-027ca9ebd846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>59d5b8c5-5822-43d5-bf93-3715243642e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button styles_btn__vqDpu css-ez23ye</value>
+      <webElementGuid>b295776f-0e00-424b-bcf7-08115d0fd558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get estimate</value>
+      <webElementGuid>9af48ac3-87cf-41ab-9c73-6c0a32a2509f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;row styles_mainLayoutContainer__cBnGy&quot;]/div[@class=&quot;styles_mainContentWrapper__rdtpQ col-xs-12&quot;]/div[@class=&quot;row styles_mainContentContainer__VAvSS&quot;]/div[@class=&quot;styles_contentContainer__bBYPw col-xs-custom&quot;]/div[@class=&quot;styles_box_1__7OoH2&quot;]/button[@class=&quot;chakra-button styles_btn__vqDpu css-ez23ye&quot;]</value>
+      <webElementGuid>517e1b67-f038-4497-af5d-ea6ed15a16d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>b6518b2c-8328-4bff-b06c-0c80af9052ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[4]/button</value>
+      <webElementGuid>a88e24bc-de2c-4640-89fe-61e8e9b73e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Details'])[1]/following::button[1]</value>
+      <webElementGuid>4b2922bd-7d7c-48f7-894b-7a053a8725a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Add discipline'])[1]/following::button[1]</value>
+      <webElementGuid>a90787b5-2799-4da2-a8f2-bc95b80267f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get estimate']/parent::*</value>
+      <webElementGuid>33bfea51-00a0-4c67-a2d4-e62842410c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>0a7a1b84-dcd6-4ebd-9af1-a8c774af89f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Get estimate' or . = 'Get estimate')]</value>
+      <webElementGuid>9bff2013-aa6b-4484-9411-f0b209e371a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

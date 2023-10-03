@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>footer_CloseGet my estimate</name>
+   <tag></tag>
+   <elementGuidId>8c7fb8ea-7dc0-4222-b8bb-167a0c2450b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='chakra-modal-:Rm9f6:']/footer</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>footer.chakra-modal__footer.css-k0waxj</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>5ebbfea8-e8e9-407b-be68-b03262d1b0cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-modal__footer css-k0waxj</value>
+      <webElementGuid>d0e1cf21-61c9-43d5-abdb-8d9941e3ec7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CloseGet my estimate</value>
+      <webElementGuid>75b35410-2760-41ca-a9a2-e48c230141dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal-:Rm9f6:&quot;)/footer[@class=&quot;chakra-modal__footer css-k0waxj&quot;]</value>
+      <webElementGuid>6b2e0893-baad-4458-a27e-4a753f3a304b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='chakra-modal-:Rm9f6:']/footer</value>
+      <webElementGuid>8688d2e7-86f4-44dd-8c35-4fe24defee15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Would you like to tell us anything else? (optional)'])[1]/following::footer[1]</value>
+      <webElementGuid>da9293d9-e1dd-4350-9ac2-8fed5cd4bdac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer</value>
+      <webElementGuid>48f815c1-94c7-47bd-8f85-c7d268079537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//footer[(text() = 'CloseGet my estimate' or . = 'CloseGet my estimate')]</value>
+      <webElementGuid>919b32e6-4aa6-4a01-9fac-7d6e6b9b7b5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
